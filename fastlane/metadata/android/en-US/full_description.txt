@@ -1,0 +1,3 @@
+Randomly select between friends.
+
+Press on the screen at the same time and a person will be randomly selected.
