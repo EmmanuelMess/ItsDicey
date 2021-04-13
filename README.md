@@ -2,6 +2,10 @@
 
 Friend randomizer!
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.emmanuelmess.itsdicey/)
+
 ### Donating: 
 
 Patreon: [patreon.com/emmanuelmess](https://www.patreon.com/emmanuelmess)
